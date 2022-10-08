@@ -11,6 +11,15 @@
                 <div class="p-6 bg-white border-b border-gray-200">
                     You're logged in!
                 </div>
+
+                <div class="p-6 bg-white border-b border-gray-200">
+                    <div class="flex flex-column justify-between card bg-grey-200 shadow p-6 m-3">
+                        <h3 class="card-title text-center">Ttitle</h3>
+                        <p class="card-body p-3 text-center">
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, incidunt?
+                        </p>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
